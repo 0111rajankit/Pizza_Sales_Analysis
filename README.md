@@ -1,3 +1,6 @@
+It's a Data Analysis Project where I have developed a Complete "Pizza-Store-Report" With MS-Excel, Power-BI, SQL, and Tableau.
+We have a database for this project which I have uploaded. I have used this database for Analysis.
+
 ![image](https://github.com/0111rajankit/Pizza_Sales_Analysis/assets/134773120/62955caa-a1a6-46c6-9013-568594792715)
 ![image](https://github.com/0111rajankit/Pizza_Sales_Analysis/assets/134773120/a6bcc898-a801-4186-a5bd-a8c9c18ba032)
 ![image](https://github.com/0111rajankit/Pizza_Sales_Analysis/assets/134773120/f0d9f4c2-d3dd-4876-8152-873990e2a160)
